@@ -1,0 +1,19 @@
+#main{
+  background-color: white;
+}
+.column {
+  float: left;
+}
+
+
+.right {
+
+
+    padding-right:80px;
+    padding-bottom: 70px;
+      padding-left: 120px
+
+}
+
+.left {
+}
