@@ -6,6 +6,16 @@
 }
 
 
+body{
+
+font-size: 30%;
+
+
+}
+
+
+
+
 .right {
 
 
@@ -16,4 +26,19 @@
 }
 
 .left {
+}
+
+
+.all-in-the-middle{
+height:300px;
+width: 200px;
+border-style: solid;
+position: absolute;
+top:250px;
+right:500px;
+left: 550px;
+
+
+
+
 }

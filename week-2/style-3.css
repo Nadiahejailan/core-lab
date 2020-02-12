@@ -1,0 +1,28 @@
+.top{
+
+border-style: solid;
+position: absolute;
+width:100%;
+height:30%;
+top:0px;
+left:0px;
+
+
+
+
+}
+
+
+
+
+
+.bottom-page{
+
+border-style: solid;
+position: absolute;
+width:100%;
+height:35%;
+top:550px;
+left:0px;
+	
+}
